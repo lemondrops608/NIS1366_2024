@@ -1,0 +1,2 @@
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/bin/MyExecutable
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/lib/libMyLibrary.a

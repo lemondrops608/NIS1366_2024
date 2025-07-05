@@ -1,0 +1,14 @@
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/CMakeFiles/edit_cache.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/CMakeFiles/rebuild_cache.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/CMakeFiles/list_install_components.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/CMakeFiles/install.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/CMakeFiles/install/local.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/CMakeFiles/install/strip.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/src/CMakeFiles/MyLibrary.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/src/CMakeFiles/MyExecutable.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/src/CMakeFiles/edit_cache.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/src/CMakeFiles/rebuild_cache.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/src/CMakeFiles/list_install_components.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/src/CMakeFiles/install.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/src/CMakeFiles/install/local.dir
+/home/code/Desktop/computer_programming_practice/NIS1366_2024/big-homework/build/src/CMakeFiles/install/strip.dir
